@@ -53,6 +53,42 @@
                     </div>
                 </div>
 
+                <div class="col-md-4">
+                    <div class="card mb-4 box-shadow">
+                    <img class="card-img-top" src="images/pic/item28.png"/>
+                        <div class="card-body">
+                            <a href="#"><p class="card-text text-center font-weight-bold text-uppercase font-16"></p></a>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card mb-4 box-shadow">
+                    <img class="card-img-top" src="images/pic/item25.png"/>
+                        <div class="card-body">
+                            <a href="#"><p class="card-text text-center font-weight-bold text-uppercase font-16"></p></a>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="card mb-4 box-shadow">
+                    <img class="card-img-top" src="images/pic/item22.png"/>
+                        <div class="card-body">
+                            <a href="#"><p class="card-text text-center font-weight-bold text-uppercase font-16"></p></a>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
         </div>
     </div>
 </main><!-- #main -->
